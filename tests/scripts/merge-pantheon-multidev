@@ -38,4 +38,4 @@ git push origin master
 
 # Wait to make sure the push completes before trying to import the config.
 sleep 20
-terminus drush 'config-import --yes'
+terminus drush 'config-import --yes' --env=dev
