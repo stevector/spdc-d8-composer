@@ -1,0 +1,14 @@
+uuid: 6be0680b-e615-4b00-9597-b91e00cadf19
+name: 'Example Dot Com Test Site'
+mail: john.doe@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
