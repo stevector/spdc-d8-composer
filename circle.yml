@@ -33,7 +33,7 @@ dependencies:
     - tests/scripts/create-pantheon-multidev
 test:
   override:
-    - terminus composer drupal-unit-tests
+    # - terminus composer drupal-unit-tests
     - cd tests && ./scripts/run-behat
 
 deployment:
